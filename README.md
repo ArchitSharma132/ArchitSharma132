@@ -2,7 +2,7 @@
 
 **Computer Science Engineering Student | Developer | Cybersecurity & AI**
 
-India | Chandigarh University | [LinkedIn]([YOUR_LINKEDIN](https://www.linkedin.com/in/archit-sharma-23b421331/)) | [Email](architsharma9c@gmail.com)
+India | Chandigarh University | [LinkedIn]([YOUR_LINKEDIN](https://www.linkedin.com/in/archit-sharma-23b421331/)) | [Email]([YOUR_EMAIL]architsharma9c@gmail.com)
 
 Currently building projects and strengthening my fundamentals in software development, cybersecurity, and AI/ML.
 
